@@ -26,6 +26,11 @@
     border:1px solid white;
     object-fit: cover;
 }
+#photo1{
+    border-radius: 50%;
+    border:1px solid white;
+    object-fit: cover;
+}
 :root {
     --font-size-small: 1.8rem;
     --font-size-normal: 2.2rem;
@@ -641,11 +646,7 @@ body:not(.user-is-tabbing) a:focus {
     box-sizing: inherit;
 }
 
-#photo1{
-    border-radius: 50%;
-    border:1px solid white;
-    object-fit: cover;
-}
+
 
 :root {
     --font-size-small: 1.8rem;
